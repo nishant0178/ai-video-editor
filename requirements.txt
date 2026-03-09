@@ -1,0 +1,10 @@
+customtkinter
+moviepy
+imageio-ffmpeg
+pydub
+edge-tts
+openai-whisper
+ddgs
+requests
+Pillow
+PyJWT
